@@ -14,7 +14,7 @@ const fishBodyImgs = [];
 const fishTailImgs = [];
 
 const LETTER_SETTINGS = {
-  baseSize: 34,
+  baseSize: 20,
   driftSpeed: 0.1,
   noiseScale: 0.0008,
   drag: 0.99,
